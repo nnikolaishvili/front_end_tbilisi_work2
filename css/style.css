@@ -1,0 +1,78 @@
+body {
+	padding: 30px;
+	width: 100%;
+}
+
+/*header*/
+header {
+	margin-bottom: 30px;
+}
+.logo img{
+	width: 65px;
+	vertical-align: middle;
+	margin-right: 45px;
+}
+.d-inline-block{
+	display: inline-block;
+}
+.nav-li{
+	margin-right: 15px;
+}
+.nav-a {
+	margin-top: 10px;
+	color: #3D58A6;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.active{
+	color: #EE4036;
+}
+/*header*/
+
+/*section1*/
+.section-1{
+	margin-bottom: 70px;
+}
+.section-1 img{
+	width: 690px;
+}
+/*section1*/
+
+/*section2*/
+.section-2 .sec2-h1{
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-family: Arial;
+}
+
+.grey{
+	background-color: rgb(242,242,242);
+}
+
+.table{
+	width: 690px;
+	height: 135px;
+}
+
+.table .td1{
+	width: 335px;
+}
+
+.table .td2{
+	background-color: white;
+	width: 20px;
+}
+
+.table .td3{
+	width: 335px;
+}
+
+.td-h1{
+	margin: 10px auto auto 10px;
+	font-family: Arial;
+	color: rgb(109,129,186);
+	font-weight: bold;
+	font-size: 14px;
+}
+/*section2*/
