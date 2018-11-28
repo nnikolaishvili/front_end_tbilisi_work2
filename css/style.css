@@ -93,7 +93,20 @@ header {
 	font-family: Arial;
 	font-weight: 530;
 }
-
-
-
 /*section2*/
+
+/*footer*/
+footer div{
+	margin-top: 40px;
+}
+footer a img{
+    height: 20px;
+}
+footer a .fb{
+    padding-right: 22px;
+    border-right:2px solid #3D58A6;
+}
+footer a .yt{
+    padding-left: 20px;
+}
+/*footer*/
