@@ -1,0 +1,95 @@
+body {
+	padding: 30px;
+	width: 100%;
+}
+
+/*header*/
+header {
+	margin-bottom: 30px;
+}
+.logo img{
+	width: 65px;
+	vertical-align: middle;
+	margin-right: 45px;
+}
+.d-inline-block{
+	display: inline-block;
+}
+.nav-li{
+	margin-right: 15px;
+}
+.nav-a {
+	margin-top: 10px;
+	color: #3D58A6;
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.active{
+	color: #EE4036;
+}
+/*header*/
+
+/*sections*/
+.number {
+	background: #3D58A6;
+	color: white;
+	font-size: 36px;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+.month {
+	font-size:18px;
+	color: #3D58A6;
+}
+article{
+	margin: 30px auto 60px;
+}
+.article-h3 {
+	margin-bottom: 20px;
+	font-size: 20px;	
+	/*font-family: "BPG Nino Mtavruli";*/
+}
+.article-picture{
+	width: 200px;
+}
+.text-box{
+	width: 920px;
+	vertical-align: top;
+	margin-left: 30px;
+}
+.text-box p{
+	margin-bottom: 15px;
+}
+.contact {
+	text-align: center;
+	margin:170px auto 280px;
+}
+.title-3{
+	color: #3D58A6;
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+.contact-li {
+	font-size: 20px;
+	color: red;
+	font-weight: 500;
+}
+.contact-li span {
+	color: #808080;
+}
+/*sections*/
+
+/*footer*/
+
+footer a img{
+    height: 20px;
+}
+footer a .fb{
+    padding-right: 22px;
+    border-right:2px solid #3D58A6;
+}
+footer a .yt{
+    padding-left: 20px;
+}
+/*footer*/
