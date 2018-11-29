@@ -35,7 +35,7 @@ header {
 	margin-bottom: 70px;
 }
 .section-1 img{
-	width: 690px;
+	width: 1170px;
 }
 /*section1*/
 
@@ -43,7 +43,7 @@ header {
 .section-2 .sec2-h1{
 	font-weight: bold;
 	margin-bottom: 20px;
-	font-family: Arial;
+	font-family: "Roboto";
 }
 
 .grey{
@@ -51,47 +51,45 @@ header {
 }
 
 .table{
-	width: 685px;
-	height: 130px;
+	width: 1170px;
+	height: 210px;
 }
 
 .table .td1{
-	width: 332.5px;
+	width: 570px;
 }
 
 .table .td2{
 	background-color: white;
-	width: 20px;
+	width: 29px;
 }
 
 .table .td3{
-	width: 332.5px;
+	width: 570px;
 }
 
 .td-h1{
 	margin: 15px;
-	font-family: Arial;
+	font-family: "Roboto";
 	color: rgb(109,129,186);
 	font-weight: bold;
 	font-size: 14px;
 }
 .table-div{
-	margin-left: 30px;
+	margin-left: 40px;
 }
 .table-div-img{
-	height: 70px;
-	width: 19%;
+	height: 132.74px;
 	vertical-align: top;
 	text-align: center;
 }
 .table-div-p{
-	width: 60%;
-	color: rgb(109,129,186);
+	width: 230px;
 	margin-left: 30px;
-	font-size: 12px;
-	color: rgb(177,178,179);
-	font-family: Arial;
-	font-weight: 530;
+	font-size: 18px;
+	color: rgb(51,51,51);
+	font-family: "Roboto";
+	font-weight: bold;
 }
 /*section2*/
 

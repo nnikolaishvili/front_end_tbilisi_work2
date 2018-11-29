@@ -43,8 +43,11 @@ header {
 .div11-h1{
 	color: rgb(69,94,169);
 	font-weight: bold;
+	font-family: "BPG Nino Mtavruli";
 }
-
+.font{
+	font-family: "BPG Ingiri Arial";
+}
 .span1{
 	color: rgb(131,131,131);
 }
