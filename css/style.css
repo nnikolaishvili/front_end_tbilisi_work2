@@ -79,15 +79,15 @@ header {
 	margin-left: 40px;
 }
 .table-div-img{
-	height: 132.74px;
+	height: 128px;
 	vertical-align: top;
 	text-align: center;
 }
 .table-div-p{
-	width: 230px;
+	width: 330px;
 	margin-left: 30px;
-	font-size: 18px;
-	color: rgb(51,51,51);
+	font-size: 17px;
+	color: rgb(102,102,102);
 	font-family: "Roboto";
 	font-weight: bold;
 }
